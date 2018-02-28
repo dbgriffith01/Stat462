@@ -1,0 +1,781 @@
+Home,Road,line,vscore,hscore,week,actual
+Colorado St.,Oregon St.,4,27,58,1,31
+Massachusetts,Hawaii,3,38,35,1,-3
+San Jose St.,South Florida,-21,42,22,1,-20
+Stanford,Rice,30.5,7,62,1,55
+Alabama,Florida St.,7.5,7,24,2,17
+Arizona St.,New Mexico St.,22.5,31,37,2,6
+Auburn,Georgia Southern,34,7,41,2,34
+Boise St.,Troy St.,10.5,13,24,2,11
+Central Florida,Florida Intl.,17,17,61,2,44
+Clemson,Kent,39.5,3,56,2,53
+Coastal Carolina,Massachusetts,-2.5,28,38,2,10
+Colorado,Colorado St.,3.5,3,17,2,14
+Eastern Mich.,Charlotte,14,7,24,2,17
+Florida,Michigan,-5.5,33,17,2,-16
+Florida Atlantic,Navy,-9.5,42,19,2,-23
+Georgia,Appalachian St.,12.5,10,31,2,21
+Georgia Tech,Tennessee,-3.5,42,41,2,-1
+Illinois,Ball St.,6.5,21,24,2,3
+Indiana,Ohio St.,-21,49,21,2,-28
+Iowa,Wyoming,12,3,24,2,21
+LSU,BYU,14.5,0,27,2,27
+Marshall,Miami (Ohio),-3,26,31,2,5
+Memphis,Louisiana-Monroe,25.5,29,37,2,8
+Michigan St.,Bowling Green,17,10,35,2,25
+Middle Tenn.,Vanderbilt,-3,28,6,2,-22
+Minnesota,Buffalo,24,7,17,2,10
+Mississippi,South Alabama,22,27,47,2,20
+NC St.,South Carolina,7,35,28,2,-7
+Nebraska,Arkansas St.,14,36,43,2,7
+North Carolina,California,12.5,35,30,2,-5
+Northern Ill.,Boston College,-4,23,20,2,-3
+Northwestern,Nevada,24,20,31,2,11
+Notre Dame,Temple,18.5,16,49,2,33
+Oklahoma,UTEP,43,7,56,2,49
+Oklahoma St.,Tulsa,17.5,24,59,2,35
+Penn St.,Akron,30.5,0,52,2,52
+Purdue,Louisville,-25,35,28,2,-7
+Rutgers,Washington,-27.5,30,14,2,-16
+Southern Miss.,Kentucky,-10,24,17,2,-7
+Texas,Maryland,19,51,41,2,-10
+UCLA,Texas A&M,5,44,45,2,1
+USC,Western Mich.,28,31,49,2,18
+Virginia Tech,West Va.,5,24,31,2,7
+Wisconsin,Utah St.,27.5,10,59,2,49
+Alabama,Fresno St.,44,10,41,3,31
+Arizona,Houston,-1,19,16,3,-3
+Arizona St.,San Diego St.,3.5,30,20,3,-10
+Arkansas,TCU,-3,28,7,3,-21
+Army,Buffalo,15,17,21,3,4
+BYU,Utah,-3,19,13,3,-6
+Ball St.,UAB,14,31,51,3,20
+Baylor,Texas-San Antonio,15.5,17,10,3,-7
+Boston College,Wake Forest,0,34,10,3,-24
+Central Florida,Memphis,5,0,0,3,0
+Clemson,Auburn,5,6,14,3,8
+Colorado,Texas St.,36,3,37,3,34
+Connecticut,South Florida,-23.5,0,0,3,0
+Duke,Northwestern,-2,17,41,3,24
+Florida St.,Louisiana-Monroe,25.5,0,0,3,0
+Idaho,UNLV,6,44,16,3,-28
+Illinois,Western Kentucky,-7,7,20,3,13
+Iowa St.,Iowa,-3,44,41,3,-3
+Kansas,Central Mich.,5,45,27,3,-18
+Kansas St.,Charlotte,35,7,55,3,48
+Louisiana Tech,Mississippi St.,-10,57,21,3,-36
+Massachusetts,Old Dominion,-4,17,7,3,-10
+Michigan,Cincinnati,34,14,36,3,22
+Michigan St.,Western Mich.,7.5,14,28,3,14
+Missouri,South Carolina,3,31,13,3,-18
+NC St.,Marshall,23,20,37,3,17
+Navy,Tulane,11,21,23,3,2
+Nevada,Toledo,-11,37,24,3,-13
+New Mexico,New Mexico St.,7.5,30,28,3,-2
+North Carolina,Louisville,-9.5,47,35,3,-12
+Notre Dame,Georgia,5,20,19,3,-1
+Ohio St.,Oklahoma,7.5,31,16,3,-15
+Oregon,Nebraska,13.5,35,42,3,7
+Oregon St.,Minnesota,3,48,14,3,-34
+Penn St.,Pittsburgh,21,14,33,3,19
+Purdue,Ohio,2.5,21,44,3,23
+Rutgers,Eastern Mich.,5,16,13,3,-3
+SMU,North Texas,13,32,54,3,22
+South Alabama,Oklahoma St.,-28,44,7,3,-37
+Syracuse,Middle Tenn.,10,30,23,3,-7
+Texas,San Jose St.,25,0,56,3,56
+Tulsa,Louisiana-Lafayette,14,42,66,3,24
+UCLA,Hawaii,23.5,23,56,3,33
+USC,Stanford,5.5,24,42,3,18
+UTEP,Rice,1,31,14,3,-17
+Virginia,Indiana,-3.5,34,17,3,-17
+Washington St.,Boise St.,10,44,47,3,3
+West Va.,East Carolina,24.5,20,56,3,36
+Wisconsin,Florida Atlantic,33,14,31,3,17
+Akron,Iowa St.,-10.5,41,14,4,-27
+Alabama,Colorado St.,28.5,23,41,4,18
+BYU,Wisconsin,-16.5,40,6,4,-34
+Boise St.,New Mexico,14.5,14,28,4,14
+Boston College,Notre Dame,-12.5,49,20,4,-29
+California,Mississippi,-3.5,16,27,4,11
+Duke,Baylor,13.5,20,34,4,14
+East Carolina,Virginia Tech,-23.5,64,17,4,-47
+Florida,Tennessee,4.5,20,26,4,6
+Florida St.,Miami (Fla.),-2.5,0,0,4,0
+Houston,Rice,22.5,3,38,4,35
+Iowa,North Texas,21.5,14,31,4,17
+Louisiana-Monroe,Southern Miss.,-5,28,17,4,-11
+Louisville,Clemson,-3,47,21,4,-26
+Marshall,Kent,14.5,0,21,4,21
+Memphis,UCLA,-2.5,45,48,4,3
+Miami (Ohio),Cincinnati,4.5,21,17,4,-4
+Michigan,Air Force,23,13,29,4,16
+Minnesota,Middle Tenn.,9,3,34,4,31
+Mississippi St.,LSU,-7.5,7,37,4,30
+Missouri,Purdue,7,35,3,4,-32
+Nebraska,Northern Ill.,11,21,17,4,-4
+New Mexico St.,Troy St.,-7.5,27,24,4,-3
+Northwestern,Bowling Green,21.5,7,49,4,42
+Ohio,Kansas,7.5,30,42,4,12
+Ohio St.,Army,31,7,38,4,31
+Oklahoma,Tulane,34.5,14,56,4,42
+Old Dominion,North Carolina,-10.5,53,23,4,-30
+Penn St.,Georgia St.,37,0,56,4,56
+Pittsburgh,Oklahoma St.,-10,59,21,4,-38
+San Diego St.,Stanford,-8.5,17,20,4,3
+South Carolina,Kentucky,5,23,13,4,-10
+South Florida,Illinois,17,23,47,4,24
+Syracuse,Central Mich.,9.5,17,41,4,24
+TCU,SMU,20.5,36,56,4,20
+Temple,Massachusetts,15,21,29,4,8
+Texas A&M,Louisiana-Lafayette,23,21,45,4,24
+Texas St.,Appalachian St.,-21.5,20,13,4,-7
+Texas Tech,Arizona St.,7,45,52,4,7
+Toledo,Tulsa,8,51,54,4,3
+UAB,Coastal Carolina,1,23,30,4,7
+USC,Texas,15.5,24,27,4,3
+UTEP,Arizona,-23,63,16,4,-47
+Utah,San Jose St.,26,16,54,4,38
+Vanderbilt,Kansas St.,-3.5,7,14,4,7
+Virginia,Connecticut,10.5,18,38,4,20
+Wake Forest,Utah St.,11,10,46,4,36
+Washington,Fresno St.,33,16,48,4,32
+Washington St.,Oregon St.,21,23,52,4,29
+Western Kentucky,Louisiana Tech,6,23,22,4,-1
+Western Mich.,Idaho,20.5,28,37,4,9
+Wyoming,Oregon,-13.5,49,13,4,-36
+Air Force,San Diego St.,-3,28,24,5,-4
+Appalachian St.,Wake Forest,-6,20,19,5,-1
+Arizona,Utah,-3.5,30,24,5,-6
+Arizona St.,Oregon,-14.5,35,37,5,2
+Baylor,Oklahoma,-27.5,49,41,5,-8
+Boise St.,Virginia,12.5,42,23,5,-19
+Buffalo,Florida Atlantic,1.5,31,34,5,3
+California,USC,-17,30,20,5,-10
+Central Mich.,Miami (Ohio),1,31,14,5,-17
+Charlotte,Georgia St.,3,28,0,5,-28
+Clemson,Boston College,33,7,34,5,27
+Colorado,Washington,-11,37,10,5,-27
+Connecticut,East Carolina,4,41,38,5,-3
+Eastern Mich.,Ohio,3,27,20,5,-7
+Florida St.,NC St.,11.5,27,21,5,-6
+Georgia,Mississippi St.,3,3,31,5,28
+Georgia Tech,Pittsburgh,7,17,35,5,18
+Houston,Texas Tech,7,27,24,5,-3
+Indiana,Georgia Southern,23.5,17,52,5,35
+Iowa,Penn St.,-11.5,21,19,5,-2
+Kansas,West Va.,-24.5,56,34,5,-22
+Kentucky,Florida,-3,28,27,5,-1
+LSU,Syracuse,22,26,35,5,9
+Louisiana-Lafayette,Louisiana-Monroe,6.5,56,50,5,-6
+Louisville,Kent,41.5,3,42,5,39
+Maryland,Central Florida,6,38,10,5,-28
+Miami (Fla.),Toledo,13.5,30,52,5,22
+Michigan St.,Notre Dame,-3,38,18,5,-20
+Middle Tenn.,Bowling Green,7,13,24,5,11
+Missouri,Auburn,-17.5,51,14,5,-37
+Navy,Cincinnati,10,32,42,5,10
+Nebraska,Rutgers,11,17,27,5,10
+New Mexico St.,UTEP,19.5,14,41,5,27
+North Carolina,Duke,1,27,17,5,-10
+North Texas,UAB,10,43,46,5,3
+Ohio St.,UNLV,39,21,54,5,33
+Oklahoma St.,TCU,11,44,31,5,-13
+Purdue,Michigan,-11,28,10,5,-18
+Rice,Florida Intl.,3,13,7,5,-6
+SMU,Arkansas St.,3.5,21,44,5,23
+San Jose St.,Utah St.,-1.5,61,10,5,-51
+South Alabama,Idaho,6.5,29,23,5,-6
+South Carolina,Louisiana Tech,9.5,16,17,5,1
+South Florida,Temple,19.5,7,43,5,36
+Stanford,UCLA,7,34,58,5,24
+Tennessee,Massachusetts,27.5,13,17,5,4
+Texas A&M,Arkansas,1.5,43,50,5,7
+Texas St.,Texas-San Antonio,-13,44,14,5,-30
+Troy St.,Akron,17.5,17,22,5,5
+Tulane,Army,3,17,21,5,4
+Tulsa,New Mexico,10.5,16,13,5,-3
+Vanderbilt,Alabama,-20,59,0,5,-59
+Virginia Tech,Old Dominion,28.5,0,38,5,38
+Washington St.,Nevada,28.5,7,45,5,38
+Western Kentucky,Ball St.,10,21,33,5,12
+Wyoming,Hawaii,4.5,21,28,5,7
+Alabama,Mississippi,28,3,66,6,63
+Arkansas,New Mexico St.,17.5,24,42,6,18
+Army,UTEP,22,21,35,6,14
+Auburn,Mississippi St.,8,10,49,6,39
+Boston College,Central Mich.,10,8,28,6,20
+Bowling Green,Akron,-2.5,34,23,6,-11
+Central Florida,Memphis,7,13,40,6,27
+Cincinnati,Marshall,3.5,38,21,6,-17
+Duke,Miami (Fla.),-6.5,31,6,6,-25
+East Carolina,South Florida,-21,61,31,6,-30
+Florida,Vanderbilt,9,24,38,6,14
+Florida Atlantic,Middle Tenn.,2.5,20,38,6,18
+Florida Intl.,Charlotte,9.5,29,30,6,1
+Fresno St.,Nevada,9,21,41,6,20
+Georgia Tech,North Carolina,10,7,33,6,26
+Hawaii,Colorado St.,-7,51,21,6,-30
+Illinois,Nebraska,-6,28,6,6,-22
+Iowa St.,Texas,-4.5,17,7,6,-10
+Kansas St.,Baylor,14.5,20,33,6,13
+Kent,Buffalo,-7.5,27,13,6,-14
+Kentucky,Eastern Mich.,14,20,24,6,4
+LSU,Troy St.,20.5,24,21,6,-3
+Louisiana Tech,South Alabama,11.5,16,34,6,18
+Louisiana-Monroe,Coastal Carolina,7.5,43,51,6,8
+Massachusetts,Ohio,-4.5,58,50,6,-8
+Michigan St.,Iowa,4,10,17,6,7
+Minnesota,Maryland,13.5,31,24,6,-7
+NC St.,Syracuse,14,25,33,6,8
+New Mexico,Air Force,-2.5,38,56,6,18
+Notre Dame,Miami (Ohio),21,17,52,6,35
+Oregon,California,17,24,45,6,21
+Oregon St.,Washington,-27,42,7,6,-35
+Penn St.,Indiana,17.5,14,45,6,31
+Pittsburgh,Rice,20.5,10,42,6,32
+Rutgers,Ohio St.,-28.5,56,0,6,-56
+SMU,Connecticut,16.5,28,49,6,21
+San Diego St.,Northern Ill.,10,28,34,6,6
+Southern Miss.,North Texas,7.5,43,28,6,-15
+Stanford,Arizona St.,17.5,24,34,6,10
+Temple,Houston,-11,20,13,6,-7
+Tennessee,Georgia,-9.5,41,0,6,-41
+Texas A&M,South Carolina,7,17,24,6,7
+Texas Tech,Oklahoma St.,-10.5,41,34,6,-7
+Tulsa,Navy,-8.5,31,21,6,-10
+UCLA,Colorado,7,23,27,6,4
+UNLV,San Jose St.,17,13,41,6,28
+Utah St.,BYU,0,24,40,6,16
+Virginia Tech,Clemson,-7,31,17,6,-14
+Wake Forest,Florida St.,-7.5,26,19,6,-7
+Washington St.,USC,-5.5,27,30,6,3
+Western Mich.,Ball St.,14,3,55,6,52
+Wisconsin,Northwestern,16.5,24,33,6,9
+Wyoming,Texas St.,16.5,10,45,6,35
+Akron,Ball St.,6,3,31,7,28
+Appalachian St.,New Mexico St.,13.5,31,45,7,14
+Auburn,Mississippi,22.5,23,44,7,21
+BYU,Boise St.,-7.5,24,7,7,-17
+Boston College,Virginia Tech,-16.5,23,10,7,-13
+Buffalo,Western Mich.,-6.5,71,68,7,-3
+Charlotte,Marshall,-14,14,3,7,-11
+Cincinnati,Central Florida,-16.5,51,23,7,-28
+Clemson,Wake Forest,21.5,14,28,7,14
+Coastal Carolina,Georgia St.,0,27,21,7,-6
+Colorado,Arizona,7,45,42,7,-3
+Connecticut,Memphis,-14.5,70,31,7,-39
+East Carolina,Temple,-3,34,10,7,-24
+Florida,LSU,1.5,17,16,7,-1
+Florida St.,Miami (Fla.),-2.5,24,20,7,-4
+Georgia Southern,Arkansas St.,-9.5,43,25,7,-18
+Houston,SMU,7,22,35,7,13
+Idaho,Louisiana-Lafayette,6,21,16,7,-5
+Iowa,Illinois,15.5,16,45,7,29
+Kansas,Texas Tech,-15.5,65,19,7,-46
+Kentucky,Missouri,9,34,40,7,6
+Miami (Ohio),Bowling Green,15.5,37,29,7,-8
+Michigan,Michigan St.,10,14,10,7,-4
+Middle Tenn.,Florida Intl.,9,17,37,7,20
+NC St.,Louisville,-3,25,39,7,14
+Navy,Air Force,7.5,45,48,7,3
+Nebraska,Wisconsin,-10.5,38,17,7,-21
+Nevada,Hawaii,-3.5,21,35,7,14
+North Carolina,Notre Dame,-14,33,10,7,-23
+Northern Ill.,Kent,23.5,3,24,7,21
+Northwestern,Penn St.,-14,31,7,7,-24
+Ohio,Central Mich.,10.5,26,23,7,-3
+Ohio St.,Maryland,30,14,62,7,48
+Oklahoma,Iowa St.,31,38,31,7,-7
+Old Dominion,Florida Atlantic,-4.5,58,28,7,-30
+Oregon,Washington St.,-2.5,33,10,7,-23
+Purdue,Minnesota,3.5,17,31,7,14
+Rice,Army,-11.5,49,12,7,-37
+San Jose St.,Fresno St.,-17,27,10,7,-17
+South Carolina,Arkansas,-3,22,48,7,26
+Syracuse,Pittsburgh,3,24,27,7,3
+TCU,West Va.,12.5,24,31,7,7
+Texas,Kansas St.,6.5,34,40,7,6
+Texas A&M,Alabama,-25.5,27,19,7,-8
+Texas St.,Louisiana-Monroe,-6.5,45,27,7,-18
+Texas-San Antonio,Southern Miss.,12,31,29,7,-2
+Toledo,Eastern Mich.,14,15,20,7,5
+Tulane,Tulsa,5,28,62,7,34
+UAB,Louisiana Tech,-10,22,23,7,1
+UNLV,San Diego St.,-8.5,41,10,7,-31
+USC,Oregon St.,33,10,38,7,28
+UTEP,Western Kentucky,-17,15,14,7,-1
+Utah,Stanford,-4,23,20,7,-3
+Utah St.,Colorado St.,-9,27,14,7,-13
+Vanderbilt,Georgia,-17.5,45,14,7,-31
+Virginia,Duke,1.5,21,28,7,7
+Washington,California,28.5,7,38,7,31
+Air Force,UNLV,8,30,34,8,4
+Alabama,Arkansas,35,9,41,8,32
+Arizona,UCLA,-3,30,47,8,17
+Arizona St.,Washington,-18,7,13,8,6
+Arkansas St.,Coastal Carolina,16.5,17,51,8,34
+Army,Eastern Mich.,4,27,28,8,1
+Bowling Green,Ohio,-10,48,30,8,-18
+Buffalo,Northern Ill.,-7,14,13,8,-1
+California,Washington St.,-16.5,3,37,8,34
+Central Florida,East Carolina,36,21,63,8,42
+Central Mich.,Toledo,-7.5,30,10,8,-20
+Colorado St.,Nevada,24.5,42,44,8,2
+Duke,Florida St.,-7,17,10,8,-7
+Florida,Texas A&M,1.5,19,17,8,-2
+Florida Intl.,Tulane,-13,10,23,8,13
+Fresno St.,New Mexico,-1,0,38,8,38
+Georgia,Missouri,29,28,53,8,25
+Georgia Southern,New Mexico St.,-6,35,27,8,-8
+Hawaii,San Jose St.,17,26,37,8,11
+Idaho,Appalachian St.,-12,23,20,8,-3
+Illinois,Rutgers,0,35,24,8,-11
+Indiana,Michigan,-6.5,27,20,8,-7
+Iowa St.,Kansas,22,0,45,8,45
+Kansas St.,TCU,-7.5,26,6,8,-20
+Kent,Miami (Ohio),-8,14,17,8,3
+LSU,Auburn,-7.5,23,27,8,4
+Louisiana-Lafayette,Texas St.,13.5,7,24,8,17
+Louisiana-Monroe,Georgia St.,6,47,37,8,-10
+Louisville,Boston College,19,45,42,8,-3
+Marshall,Old Dominion,12.5,3,35,8,32
+Maryland,Northwestern,-3,37,21,8,-16
+Memphis,Navy,3.5,27,30,8,3
+Miami (Fla.),Georgia Tech,6.5,24,25,8,1
+Minnesota,Michigan St.,-4.5,30,27,8,-3
+Mississippi,Vanderbilt,3,35,57,8,22
+Mississippi St.,BYU,22.5,10,35,8,25
+Nebraska,Ohio St.,-24.5,56,14,8,-42
+North Carolina,Virginia,-3,20,14,8,-6
+North Texas,Texas-San Antonio,-3,26,29,8,3
+Oklahoma St.,Baylor,26.5,16,59,8,43
+Oregon St.,Colorado,-10,36,33,8,-3
+Pittsburgh,NC St.,-11.5,35,17,8,-18
+San Diego St.,Boise St.,6,31,14,8,-17
+South Florida,Cincinnati,24,3,33,8,30
+Southern Miss.,UTEP,23,0,24,8,24
+Stanford,Oregon,9.5,7,49,8,42
+Syracuse,Clemson,-23.5,24,27,8,3
+Temple,Connecticut,10,28,24,8,-4
+Tennessee,South Carolina,1.5,15,9,8,-6
+Texas,Oklahoma,-9,29,24,8,-5
+Troy St.,South Alabama,15.5,19,8,8,-11
+Tulsa,Houston,-13,17,45,8,28
+UAB,Middle Tenn.,-4,23,25,8,2
+USC,Utah,12.5,27,28,8,1
+Utah St.,Wyoming,1.5,28,23,8,-5
+West Va.,Texas Tech,5.5,35,46,8,11
+Western Kentucky,Charlotte,17,14,45,8,31
+Western Mich.,Akron,14,14,13,8,-1
+Wisconsin,Purdue,16.5,9,17,8,8
+Alabama,Tennessee,36.5,7,45,9,38
+Appalachian St.,Coastal Carolina,23.5,29,37,9,8
+Arkansas,Auburn,-15.5,52,20,9,-32
+Arkansas St.,Louisiana-Lafayette,12.5,3,47,9,44
+Army,Temple,6.5,28,31,9,3
+Ball St.,Central Mich.,-3,56,9,9,-47
+Baylor,West Va.,-9,38,36,9,-2
+Boise St.,Wyoming,14,14,24,9,10
+Bowling Green,Northern Ill.,-14,48,17,9,-31
+California,Arizona,-3.5,45,44,9,-1
+Charlotte,UAB,-7.5,24,25,9,1
+Cincinnati,SMU,-7.5,31,28,9,-3
+Connecticut,Tulsa,-4,14,20,9,6
+Duke,Pittsburgh,8,24,17,9,-7
+East Carolina,BYU,-6,17,33,9,16
+Eastern Mich.,Western Mich.,-2.5,20,17,9,-3
+Florida Atlantic,North Texas,3.5,31,69,9,38
+Florida St.,Louisville,6.5,31,28,9,-3
+Georgia St.,Troy St.,-9.5,34,10,9,-24
+Georgia Tech,Wake Forest,4,24,38,9,14
+Houston,Memphis,2.5,42,38,9,-4
+Kansas St.,Oklahoma,-14,42,35,9,-7
+Louisiana Tech,Southern Miss.,3,34,27,9,-7
+Massachusetts,Georgia Southern,7.5,20,55,9,35
+Miami (Fla.),Syracuse,17.5,19,27,9,8
+Miami (Ohio),Buffalo,2.5,14,24,9,10
+Michigan St.,Indiana,6.5,9,17,9,8
+Middle Tenn.,Marshall,-2.5,38,10,9,-28
+Minnesota,Illinois,13.5,17,24,9,7
+Mississippi,LSU,-7,40,24,9,-16
+Mississippi St.,Kentucky,12,7,45,9,38
+Missouri,Idaho,14,21,68,9,47
+Navy,Central Florida,-7.5,31,21,9,-10
+Nevada,Air Force,-7,45,42,9,-3
+New Mexico,Colorado St.,-7.5,27,24,9,-3
+Northwestern,Iowa,2,10,17,9,7
+Notre Dame,USC,3.5,14,49,9,35
+Ohio,Kent,17.5,3,48,9,45
+Old Dominion,Western Kentucky,-7.5,35,31,9,-4
+Penn St.,Michigan,9.5,13,42,9,29
+Rutgers,Purdue,-10,12,14,9,2
+San Diego St.,Fresno St.,7.5,27,3,9,-24
+South Alabama,Louisiana-Monroe,4.5,23,33,9,10
+TCU,Kansas,39,0,43,9,43
+Texas,Oklahoma St.,-7,13,10,9,-3
+Texas Tech,Iowa St.,7,31,13,9,-18
+Texas-San Antonio,Rice,19.5,7,20,9,13
+Toledo,Akron,15,21,48,9,27
+Tulane,South Florida,-11,34,28,9,-6
+UCLA,Oregon,6,14,31,9,17
+UNLV,Utah St.,3.5,52,28,9,-24
+Utah,Arizona St.,10,30,10,9,-20
+Virginia,Boston College,6.5,41,10,9,-31
+Virginia Tech,North Carolina,20,7,59,9,52
+Washington St.,Colorado,10,0,28,9,28
+Wisconsin,Maryland,24,13,38,9,25
+Akron,Buffalo,-1,20,21,10,1
+Arizona,Washington St.,-3,37,58,10,21
+Arizona St.,USC,-3.5,48,17,10,-31
+BYU,San Jose St.,9.5,20,41,10,21
+Ball St.,Toledo,-25.5,58,17,10,-41
+Baylor,Texas,-9.5,38,7,10,-31
+Boston College,Florida St.,-5.5,3,35,10,32
+Clemson,Georgia Tech,14,10,24,10,14
+Coastal Carolina,Texas St.,10,27,7,10,-20
+Colorado,California,4,28,44,10,16
+Colorado St.,Air Force,10,45,28,10,-17
+Connecticut,Missouri,-14,52,12,10,-40
+Florida,Georgia,-13.5,42,7,10,-35
+Fresno St.,UNLV,21.5,26,16,10,-10
+Georgia St.,South Alabama,0,13,21,10,8
+Hawaii,San Diego St.,-9.5,28,7,10,-21
+Idaho,Louisiana-Monroe,2.5,23,31,10,8
+Illinois,Wisconsin,-27,24,10,10,-14
+Iowa,Minnesota,7,10,17,10,7
+Iowa St.,TCU,-7,7,14,10,7
+Kansas,Kansas St.,-24.5,30,20,10,-10
+Kentucky,Tennessee,3.5,26,29,10,3
+Marshall,Florida Intl.,17,41,30,10,-11
+Maryland,Indiana,-6,39,42,10,3
+Massachusetts,Appalachian St.,-4,27,30,10,3
+Memphis,Tulane,11,26,56,10,30
+Michigan,Rutgers,22.5,14,35,10,21
+Mississippi,Arkansas,2.5,38,37,10,-1
+New Mexico St.,Arkansas St.,-3,37,21,10,-16
+North Carolina,Miami (Fla.),-20.5,24,19,10,-5
+North Texas,Old Dominion,11.5,38,45,10,7
+Northern Ill.,Eastern Mich.,7,27,30,10,3
+Northwestern,Michigan St.,-3,31,39,10,8
+Notre Dame,NC St.,6.5,14,35,10,21
+Ohio St.,Penn St.,7,38,39,10,1
+Oklahoma,Texas Tech,20.5,27,49,10,22
+Oregon,Utah,-3,20,41,10,21
+Oregon St.,Stanford,-21,15,14,10,-1
+Pittsburgh,Virginia,1.5,14,31,10,17
+Purdue,Nebraska,5,25,24,10,-1
+Rice,Louisiana Tech,-13,42,28,10,-14
+SMU,Tulsa,9.5,34,38,10,4
+South Carolina,Vanderbilt,7,27,34,10,7
+South Florida,Houston,10.5,28,24,10,-4
+Southern Miss.,UAB,12.5,30,12,10,-18
+Texas A&M,Mississippi St.,-3,35,14,10,-21
+Troy St.,Georgia Southern,25,16,38,10,22
+UTEP,Texas-San Antonio,-15,31,14,10,-17
+Utah St.,Boise St.,-9.5,41,14,10,-27
+Virginia Tech,Duke,17,3,24,10,21
+Wake Forest,Louisville,-1.5,32,42,10,10
+Washington,UCLA,17.5,23,44,10,21
+West Va.,Oklahoma St.,-7.5,50,39,10,-11
+Western Kentucky,Florida Atlantic,-6.5,42,28,10,-14
+Wyoming,New Mexico,-1.5,3,42,10,39
+Air Force,Army,6,21,0,11,-21
+Alabama,LSU,21,10,24,11,14
+Arizona St.,Colorado,4,30,41,11,11
+Arkansas,Coastal Carolina,23.5,38,39,11,1
+Boise St.,Nevada,20,14,41,11,27
+California,Oregon St.,7,23,37,11,14
+Connecticut,South Florida,-23.5,37,20,11,-17
+Eastern Mich.,Ball St.,24,14,56,11,42
+Florida Atlantic,Marshall,6.5,25,30,11,5
+Florida Intl.,Texas-San Antonio,-7,7,14,11,7
+Florida St.,Syracuse,7,24,27,11,3
+Fresno St.,BYU,10,13,20,11,7
+Georgia,South Carolina,23.5,10,24,11,14
+Georgia Southern,Georgia St.,-4,21,17,11,-4
+Houston,East Carolina,24,27,52,11,25
+Indiana,Wisconsin,-10.5,45,17,11,-28
+Iowa,Ohio St.,-20,24,55,11,31
+Kansas,Baylor,-7,38,9,11,-29
+Kent,Bowling Green,-2.5,44,16,11,-28
+Kentucky,Mississippi,3.5,37,34,11,-3
+Louisiana Tech,North Texas,3.5,24,23,11,-1
+Louisiana-Monroe,Appalachian St.,-8,45,52,11,7
+Miami (Fla.),Virginia Tech,3,10,28,11,18
+Michigan,Minnesota,15.5,10,33,11,23
+Michigan St.,Penn St.,-10,24,27,11,3
+Middle Tenn.,UTEP,17.5,3,30,11,27
+Mississippi St.,Massachusetts,33.5,23,34,11,11
+Missouri,Florida,1.5,16,45,11,29
+NC St.,Clemson,-8,38,31,11,-7
+Nebraska,Northwestern,-3,31,24,11,-7
+New Mexico,Utah St.,3.5,24,10,11,-14
+Notre Dame,Wake Forest,14.5,37,48,11,11
+Ohio,Miami (Ohio),9,28,45,11,17
+Oklahoma St.,Oklahoma,1.5,62,52,11,-10
+Old Dominion,Charlotte,9.5,0,6,11,6
+Purdue,Illinois,14,10,29,11,19
+Rutgers,Maryland,-4,24,31,11,7
+SMU,Central Florida,-15,31,24,11,-7
+San Jose St.,San Diego St.,-23.5,52,7,11,-45
+South Alabama,Louisiana-Lafayette,6,19,14,11,-5
+TCU,Texas,6.5,7,24,11,17
+Temple,Navy,-7,26,34,11,8
+Tennessee,Southern Miss.,6.5,10,24,11,14
+Texas A&M,Auburn,-15.5,42,27,11,-15
+Texas St.,New Mexico St.,-10,45,35,11,-10
+Texas Tech,Kansas St.,4,42,35,11,-7
+Toledo,Northern Ill.,7.5,17,27,11,10
+Troy St.,Idaho,18.5,21,24,11,3
+Tulane,Cincinnati,6.5,17,16,11,-1
+Tulsa,Memphis,-13.5,41,14,11,-27
+UAB,Rice,10,21,52,11,31
+UNLV,Hawaii,9,23,31,11,8
+USC,Arizona,7,35,49,11,14
+Utah,UCLA,6.5,17,48,11,31
+Vanderbilt,Western Kentucky,12.5,17,31,11,14
+Virginia,Georgia Tech,-7.5,36,40,11,4
+Washington,Oregon,17,3,38,11,35
+Washington St.,Stanford,-2,21,24,11,3
+West Va.,Iowa St.,3.5,16,20,11,4
+Western Mich.,Central Mich.,3.5,35,28,11,-7
+Wyoming,Colorado St.,-4.5,13,16,11,3
+Air Force,Wyoming,3,28,14,12,-14
+Appalachian St.,Georgia Southern,18.5,6,27,12,21
+Arizona,Oregon St.,21,28,49,12,21
+Army,Duke,-4,16,21,12,5
+Auburn,Georgia,-2,17,40,12,23
+Baylor,Texas Tech,-8.5,38,24,12,-14
+Boston College,NC St.,-3,17,14,12,-3
+Buffalo,Bowling Green,7.5,28,38,12,10
+Central Florida,Connecticut,39,24,49,12,25
+Central Mich.,Eastern Mich.,-2,30,42,12,12
+Charlotte,Middle Tenn.,-13.5,35,21,12,-14
+Cincinnati,Temple,-3,35,24,12,-11
+Clemson,Florida St.,16,14,31,12,17
+Coastal Carolina,Troy St.,-17,42,17,12,-25
+Colorado,USC,-14,38,24,12,-14
+Colorado St.,Boise St.,-6,59,52,12,-7
+East Carolina,Tulane,-5.5,31,24,12,-7
+Florida Intl.,Old Dominion,9.5,37,30,12,-7
+Georgia Tech,Virginia Tech,-3,22,28,12,6
+Hawaii,Fresno St.,-10,31,21,12,-10
+Illinois,Indiana,-9.5,24,14,12,-10
+Iowa St.,Oklahoma St.,-6.5,49,42,12,-7
+Kansas St.,West Va.,1,28,23,12,-5
+LSU,Arkansas,17,10,33,12,23
+Louisiana Tech,Florida Atlantic,-4.5,48,23,12,-25
+Louisville,Virginia,12,21,38,12,17
+Marshall,Western Kentucky,11.5,23,30,12,7
+Maryland,Michigan,-17,35,10,12,-25
+Miami (Fla.),Notre Dame,-3.5,8,41,12,33
+Miami (Ohio),Akron,6.5,14,24,12,10
+Minnesota,Nebraska,2,21,54,12,33
+Mississippi,Louisiana-Lafayette,20,22,50,12,28
+Mississippi St.,Alabama,-13.5,31,24,12,-7
+Missouri,Tennessee,12.5,17,50,12,33
+Navy,SMU,3.5,40,43,12,3
+Nevada,San Jose St.,18.5,14,59,12,45
+North Texas,UTEP,22.5,10,45,12,35
+Northern Ill.,Ball St.,31.5,17,63,12,46
+Northwestern,Purdue,4,13,23,12,10
+Ohio,Toledo,-4,10,38,12,28
+Ohio St.,Michigan St.,16.5,3,48,12,45
+Oklahoma,TCU,6.5,20,38,12,18
+Penn St.,Rutgers,31,6,35,12,29
+Pittsburgh,North Carolina,9.5,34,31,12,-3
+Rice,Southern Miss.,-10,43,34,12,-9
+South Alabama,Arkansas St.,-11,19,24,12,5
+South Carolina,Florida,5.5,20,28,12,8
+Stanford,Washington,-6,22,30,12,8
+Syracuse,Wake Forest,1,64,43,12,-21
+Texas,Kansas,33.5,27,42,12,15
+Texas A&M,New Mexico,17.5,14,55,12,41
+Texas St.,Georgia St.,-6.5,33,30,12,-3
+Texas-San Antonio,UAB,8,24,19,12,-5
+UCLA,Arizona St.,3,37,44,12,7
+UNLV,BYU,3.5,31,21,12,-10
+Utah,Washington St.,-1,33,25,12,-8
+Vanderbilt,Kentucky,1.5,44,21,12,-23
+Western Mich.,Kent,21.5,20,48,12,28
+Wisconsin,Iowa,11.5,14,38,12,24
+Akron,Ohio,-13,34,37,13,3
+Arkansas,Mississippi St.,-13,28,21,13,-7
+Arkansas St.,Texas St.,26,12,30,13,18
+Auburn,Louisiana-Monroe,37.5,14,42,13,28
+BYU,Massachusetts,4,16,10,13,-6
+Ball St.,Buffalo,-20,40,24,13,-16
+Baylor,Iowa St.,-8,23,13,13,-10
+Boise St.,Air Force,17,19,44,13,25
+Boston College,Connecticut,21.5,16,39,13,23
+Bowling Green,Toledo,-18,66,37,13,-29
+Colorado St.,San Jose St.,32.5,14,42,13,28
+Duke,Georgia Tech,-7,20,43,13,23
+East Carolina,Cincinnati,-3.5,20,48,13,28
+Florida,UAB,10.5,7,36,13,29
+Florida Atlantic,Florida Intl.,14.5,24,52,13,28
+Georgia,Kentucky,21.5,13,42,13,29
+Georgia Southern,South Alabama,-5,0,52,13,52
+Idaho,Coastal Carolina,7,13,7,13,-6
+Indiana,Rutgers,10.5,0,41,13,41
+Iowa,Purdue,7,24,15,13,-9
+Kansas,Oklahoma,-37.5,41,3,13,-38
+Kent,Central Mich.,-17.5,42,23,13,-19
+Louisiana-Lafayette,New Mexico St.,-5,34,47,13,13
+Louisville,Syracuse,13,10,56,13,46
+Memphis,SMU,11.5,45,66,13,21
+Miami (Fla.),Virginia,19.5,28,44,13,16
+Miami (Ohio),Eastern Mich.,3,27,24,13,-3
+Michigan St.,Maryland,15.5,7,17,13,10
+Mississippi,Texas A&M,-1.5,31,24,13,-7
+New Mexico,UNLV,1.5,38,35,13,-3
+North Texas,Army,2.5,49,52,13,3
+Northern Ill.,Western Mich.,8,31,35,13,4
+Northwestern,Minnesota,7,0,39,13,39
+Notre Dame,Navy,18,17,24,13,7
+Ohio St.,Illinois,41,14,52,13,38
+Oklahoma St.,Kansas St.,19.5,45,40,13,-5
+Old Dominion,Rice,8,21,24,13,3
+Oregon,Arizona,3,28,48,13,20
+Oregon St.,Arizona St.,-7,40,24,13,-16
+Penn St.,Nebraska,25.5,44,56,13,12
+San Diego St.,Nevada,16.5,23,42,13,19
+South Florida,Tulsa,22,20,27,13,7
+Southern Miss.,Charlotte,17.5,21,66,13,45
+Stanford,California,14,14,17,13,3
+Temple,Central Florida,-13,45,19,13,-26
+Tennessee,LSU,-16,30,10,13,-20
+Texas Tech,TCU,-6,27,3,13,-24
+Texas-San Antonio,Marshall,1,7,9,13,2
+Tulane,Houston,-9.5,17,20,13,3
+USC,UCLA,15.5,23,28,13,5
+UTEP,Louisiana Tech,-17,42,21,13,-21
+Utah St.,Hawaii,10,0,38,13,38
+Vanderbilt,Missouri,-8,45,17,13,-28
+Virginia Tech,Pittsburgh,15.5,14,20,13,6
+Wake Forest,NC St.,1.5,24,30,13,6
+Washington,Utah,17.5,30,33,13,3
+West Va.,Texas,3,28,14,13,-14
+Western Kentucky,Middle Tenn.,-1.5,38,41,13,3
+Wisconsin,Michigan,7,10,24,13,14
+Wyoming,Fresno St.,-2.5,13,7,13,-6
+Air Force,Utah St.,1.5,35,38,14,3
+Akron,Kent,15,14,24,14,10
+Arizona St.,Arizona,-2.5,30,42,14,12
+Arkansas,Missouri,-8,48,45,14,-3
+Auburn,Alabama,-5.5,14,26,14,12
+Ball St.,Miami (Ohio),-18,28,7,14,-21
+Buffalo,Ohio,-6.5,24,31,14,7
+Central Florida,South Florida,9,42,49,14,7
+Central Mich.,Northern Ill.,-3,24,31,14,7
+Charlotte,Florida Atlantic,-24.5,31,12,14,-19
+Cincinnati,Connecticut,6,21,22,14,1
+Eastern Mich.,Bowling Green,12.5,31,34,14,3
+Florida,Florida St.,-5.5,38,22,14,-16
+Florida Intl.,Western Kentucky,-3,17,41,14,24
+Fresno St.,Boise St.,-6.5,17,28,14,11
+Georgia St.,Appalachian St.,-6,31,10,14,-21
+Georgia Tech,Georgia,-11.5,38,7,14,-31
+Hawaii,BYU,-3.5,30,20,14,-10
+Houston,Navy,4.5,14,24,14,10
+Illinois,Northwestern,-16,42,7,14,-35
+Kansas St.,Iowa St.,2,19,20,14,1
+Kentucky,Louisville,-9.5,44,17,14,-27
+LSU,Texas A&M,11,21,45,14,24
+Louisiana Tech,Texas-San Antonio,1.5,6,20,14,14
+Louisiana-Lafayette,Georgia Southern,5.5,34,24,14,-10
+Louisiana-Monroe,Arkansas St.,-9.5,67,50,14,-17
+Marshall,Southern Miss.,2.5,28,27,14,-1
+Maryland,Penn St.,-23.5,66,3,14,-63
+Memphis,East Carolina,29,13,70,14,57
+Michigan,Ohio St.,-13,31,20,14,-11
+Middle Tenn.,Old Dominion,13.5,10,41,14,31
+Minnesota,Wisconsin,-18,31,0,14,-31
+Mississippi St.,Mississippi,13.5,31,28,14,-3
+NC St.,North Carolina,16,21,33,14,12
+Nebraska,Iowa,-5,56,14,14,-42
+Nevada,UNLV,3,16,23,14,7
+New Mexico St.,Idaho,10,10,17,14,7
+Oklahoma,West Va.,22.5,31,59,14,28
+Oklahoma St.,Kansas,41.5,17,58,14,41
+Oregon,Oregon St.,25.5,10,69,14,59
+Pittsburgh,Miami (Fla.),-11,14,24,14,10
+Purdue,Indiana,2.5,24,31,14,7
+Rice,North Texas,-12,30,14,14,-16
+Rutgers,Michigan St.,-13.5,40,7,14,-33
+SMU,Tulane,7,38,41,14,3
+San Diego St.,New Mexico,20.5,10,35,14,25
+San Jose St.,Wyoming,-18,17,20,14,3
+South Carolina,Clemson,-13.5,34,10,14,-24
+Stanford,Notre Dame,-3,20,38,14,18
+Syracuse,Boston College,-3,42,14,14,-28
+TCU,Baylor,24,22,45,14,23
+Tennessee,Vanderbilt,2,42,24,14,-18
+Texas,Texas Tech,7.5,27,23,14,-4
+Toledo,Western Mich.,11.5,10,37,14,27
+Troy St.,Texas St.,24.5,9,62,14,53
+Tulsa,Temple,-4.5,43,22,14,-21
+UAB,UTEP,21,7,28,14,21
+UCLA,California,7,27,30,14,3
+Utah,Colorado,10.5,13,34,14,21
+Virginia,Virginia Tech,-6.5,10,0,14,-10
+Wake Forest,Duke,11,31,23,14,-8
+Washington,Washington St.,10,14,41,14,27
+Appalachian St.,Louisiana-Lafayette,14.5,14,63,15,49
+Arkansas St.,Troy St.,-1,32,25,15,-7
+Auburn,Georgia,-1.5,28,7,15,-21
+Boise St.,Fresno St.,9.5,14,17,15,3
+Central Florida,Memphis,7,55,62,15,7
+Clemson,Miami (Fla.),10,3,38,15,35
+Coastal Carolina,Georgia Southern,-3.5,17,28,15,11
+Florida Atlantic,North Texas,12,17,41,15,24
+Florida Intl.,Massachusetts,-3,45,63,15,18
+Florida St.,Louisiana-Monroe,25.5,10,42,15,32
+Georgia St.,Idaho,7,24,10,15,-14
+New Mexico St.,South Alabama,10.5,17,22,15,5
+Oklahoma,TCU,7.5,17,41,15,24
+Toledo,Akron,21,28,45,15,17
+USC,Stanford,4.5,28,31,15,3
+Wisconsin,Ohio St.,-4,27,21,15,-6
+Navy,Army,3,14,13,16,-1
+Arizona,Purdue,3,38,35,19,-3
+Arizona St.,NC St.,-7,52,31,19,-21
+Arkansas St.,Middle Tenn.,3.5,35,30,19,-5
+Auburn,Central Florida,9.5,34,27,19,-7
+Boise St.,Oregon,-7,28,38,19,10
+Clemson,Alabama,-3,24,6,19,-18
+Colorado St.,Marshall,5,31,28,19,-3
+Duke,Northern Ill.,5,14,36,19,22
+Florida Atlantic,Akron,22.5,3,50,19,47
+Florida Intl.,Temple,-7,28,3,19,-25
+Florida St.,Southern Miss.,16.5,13,42,19,29
+Fresno St.,Houston,-2.5,27,33,19,6
+Iowa,Boston College,2.5,20,27,19,7
+Memphis,Iowa St.,3.5,21,20,19,-1
+Miami (Fla.),Wisconsin,-4.5,34,24,19,-10
+Michigan,South Carolina,7.5,26,19,19,-7
+Mississippi St.,Louisville,-6.5,27,31,19,4
+Navy,Virginia,1.5,7,49,19,42
+New Mexico St.,Utah St.,-4,20,26,19,6
+Northwestern,Kentucky,7.5,23,24,19,1
+Notre Dame,LSU,-3.5,17,21,19,4
+Ohio,UAB,6.5,6,41,19,35
+Ohio St.,USC,7.5,7,24,19,17
+Oklahoma,Georgia,-2,54,48,19,-6
+Oklahoma St.,Virginia Tech,6,21,30,19,9
+Penn St.,Washington,1.5,28,35,19,7
+SMU,Louisiana Tech,4,51,10,19,-41
+San Diego St.,Army,6,42,35,19,-7
+South Florida,Texas Tech,2.5,34,38,19,4
+TCU,Stanford,3.5,37,39,19,2
+Texas,Missouri,-2.5,16,33,19,17
+Toledo,Appalachian St.,7,34,0,19,-34
+Troy St.,North Texas,6.5,30,50,19,20
+UCLA,Kansas St.,-2.5,35,17,19,-18
+Wake Forest,Texas A&M,3,52,55,19,3
+Washington St.,Michigan St.,-2,42,17,19,-25
+West Va.,Utah,-6.5,30,14,19,-16
+Western Kentucky,Georgia St.,6.5,27,17,19,-10
+Wyoming,Central Mich.,3.5,14,37,19,23
+Georgia,Alabama,-4,26,23,20,-3
